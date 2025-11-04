@@ -1,21 +1,19 @@
 
-Weekly Status Report for KAN — generated 2025-11-04 12:22
+Weekly Status Report for KAN — generated 2025-11-04 13:28
 ==========================================================
 
-**Weekly Status Report**
+### Overall Status
+- KAN-1: Migration blockers resolution is unassigned and overdue, posing a significant risk to project timelines.
+- KAN-4: User training sessions are planned but lack an assigned owner and due date, which may delay implementation.
 
-**1) Overall Status**
-- KAN-1: Migration blockers resolution is unassigned and overdue; critical for project timeline.
-- KAN-4: User training sessions are planned but unassigned; no immediate deadline but should be prioritized.
+### Key Risks & Blockers
+- KAN-1 is overdue with no assigned owner, risking migration progress and potential project delays.
+- KAN-4 is unassigned, which could lead to insufficient preparation for user training and impact user adoption.
 
-**2) Key Risks & Blockers**
-- KAN-1 is overdue and unassigned, posing a significant risk to the migration timeline.
-- KAN-4 lacks an owner, which may delay the initiation of user training sessions.
-
-**3) Next Steps**
-- Assign an owner to KAN-1 immediately to address migration blockers; suggest reaching out to the technical team lead.
-- Assign an owner to KAN-4 to ensure user training sessions are scheduled; recommend identifying a team member with training experience.
-- Set a follow-up meeting to review progress on both tasks by next week.
+### Next Steps
+- Assign an owner to KAN-1 immediately to address migration blockers and establish a new due date.
+- Assign an owner to KAN-4 and set a target date for the user training sessions to ensure timely preparation.
+- Schedule a meeting with the technical team to discuss KAN-1 and identify specific blockers.
 
 ---
 Raw Tasks
